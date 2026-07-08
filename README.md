@@ -1,4 +1,8 @@
-﻿# language-translate
+venv実行
+ .\venv\Scripts\activate
+ 
+ 
+ # language-translate
 
 
 # 英語・インドネシア語 ASR分別＆逆再生実験プロジェクト
