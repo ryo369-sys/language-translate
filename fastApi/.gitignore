@@ -1,0 +1,27 @@
+# 秘密の環境変数ファイルをGitの追跡から外す（絶対公開しない）
+.env
+
+# Composerでインストールした外部ライブラリのフォルダを外す
+vendor/
+
+
+
+# モデルの重みファイルを無視
+*.pth
+*.pt
+*.ckpt
+
+# データセットやログのフォルダ（ある場合）
+dataset/
+logs/
+venv/
+my_dataset/
+dataset_dict.json
+*.arrow
+
+
+dataset/
+*.jpg
+*.jpeg
+*.png
+*.JPG
