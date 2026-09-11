@@ -1,4 +1,6 @@
-Dockerコンテナ作成
+Dockerコンテナ作成完了
+
+
 
 
 # Multi-Scale Audio Translation Model for Indonesian-English Code-Switching
