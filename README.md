@@ -1,7 +1,4 @@
-Dockerコンテナ作成完了
-
-仮想の疎通ができていない
-
+Dockerコンテナ後でやる
 
 # Multi-Scale Audio Translation Model for Indonesian-English Code-Switching
 
