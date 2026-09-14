@@ -1,4 +1,4 @@
-Dockerコンテナ後でやる
+Dockerコンテナ設定次第でやる
 
 # Multi-Scale Audio Translation Model for Indonesian-English Code-Switching
 
