@@ -2,6 +2,10 @@ Dockerコンテナ設定次第でやる
 
 必要なテーブルの確認と作成
 
+作成したテーブル
+
+User　Input　transcript_segments
+
 # Multi-Scale Audio Translation Model for Indonesian-English Code-Switching
 
 YouTube等の動画・配信における**「インドネシア語と英語が混ざったカジュアルな音声（コードスイッチング）」**を、直接**日本語へ翻訳**する音声翻訳（End-to-End Speech Translation）モデルです。
