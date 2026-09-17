@@ -4,7 +4,7 @@ Dockerコンテナ設定次第でやる
 
 作成したテーブル
 
-User　Input　transcript_segments
+User　Input　transcript_segments follows
 
 # Multi-Scale Audio Translation Model for Indonesian-English Code-Switching
 
