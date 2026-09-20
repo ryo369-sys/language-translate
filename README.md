@@ -1,9 +1,5 @@
 Dockerコンテナ設定次第でやる
 
-作成したテーブル
-
-User　Input　transcript_segments follows
-
 作成予定テーブル
 
 いいね　通報
