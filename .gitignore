@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# Datasets & Heavy Models (※大容量データを除外)
+data/
+weights/
+*.wav
+*.mp3
+*.pt
+*.pth
+*.npy
+
+# Docker & IDEs
+.idea/
+.vscode/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
