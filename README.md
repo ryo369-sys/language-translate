@@ -2,7 +2,7 @@ sql関係のDockerコンテナ設定次第でやる
 
 作成予定テーブル
 
-いいね　通報
+いいね　通報 ※userテーブルにプロフィールのデータを取得する
 
 # Multi-Scale Audio Translation Model for Indonesian-English Code-Switching
 
