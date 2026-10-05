@@ -1,0 +1,13 @@
+@keyframes waveAnimation {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px); /* 8px上に浮き上がる */
+  }
+}
+
+.wave-char {
+  display: inline-block;
+  animation: waveAnimation 1.2s ease-in-out infinite;
+}
