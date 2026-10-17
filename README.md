@@ -45,9 +45,6 @@ YouTube等の動画・配信における**「インドネシア語と英語が�
 
 * **音声データ**: 
   * [Mozilla Common Voice](https://commonvoice.mozilla.org/) (CC-0) - 基礎音声認識・音響モデル用
-* **会話・並列テキストデータ**: 
-  * [OpenSubtitles (OPUS)](https://opus.nlpl.eu/OpenSubtitles.php) - インドネシア語 ⇔ 英語（日常会話・スラング抽出）
-  * [JESC](https://arxiv.org/abs/1710.10639) (CC BY-SA 4.0) - 英語 ⇔ 日本語（映画・アニメ字幕）
 * **合成コードスイッチングデータ**:
   * OpenSubtitlesのインドネシア語テキストに対し、特定のカジュアル表現や接続詞（*So, Honestly, Literally* 等）を英語に置換するルールベース/LLM拡張を適用して作成。
 
