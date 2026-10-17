@@ -4,6 +4,8 @@ sql関係のDockerコンテナ設定次第でやる
 
 いいね　通報 ※userテーブルにプロフィールデータを取得する
 
+venv .\venv\Scripts\Activate.ps1
+
 # Multi-Scale Audio Translation Model for Indonesian-English Code-Switching
 
 YouTube等の動画・配信における**「インドネシア語と英語が混ざったカジュアルな音声（コードスイッチング）」**を、直接**日本語へ翻訳**する音声翻訳（End-to-End Speech Translation）モデルです。
